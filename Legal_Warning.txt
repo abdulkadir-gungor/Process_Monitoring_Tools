@@ -1,0 +1,13 @@
+LEGAL WARNING
+--------------
+Programs "process_monitoring_tools.exe", "process_creation.exe", "process_deletion.exe" are developed by me.
+However, "Autoruns", "ProcessExplorer", "ProcessMonitor", "RAMMap", "WinObj", "cmd" programs are developed by Windows.
+All rights of these programs belong to  © Microsoft Windows. For this reason, comply with the License terms of the relevant software.
+
+
+Programs such as Autoruns, ProcessExplorer, ProcessMonitor, RAMMap, WinObj, etc the current versions can be downloaded from the link below.
+https://docs.microsoft.com/en-us/sysinternals/downloads/process-utilities
+
+
+Programs "process_monitoring_tools.exe", "process_creation.exe", "process_deletion.exe" source codes are available from the github account below.
+https://github.com/abdulkadir-gungor/Process_Monitoring_Tools
