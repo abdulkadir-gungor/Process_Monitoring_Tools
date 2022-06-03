@@ -38,7 +38,7 @@ Afterwards, the tools can be accessed on the system tray.
 ![Test12](https://user-images.githubusercontent.com/71177413/171879742-fadcf840-e37c-4b1b-882a-626e83d1cf1d.JPG)
 
 
-**Process Creation** 
+**Process Deletion** 
 
 &emsp; It is a tool that allows to monitor deleted processes in the system. The command line is colored to make it easier to visualize.
 
